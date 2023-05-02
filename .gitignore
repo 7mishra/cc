@@ -1,7 +1,5 @@
 node_modules
 
-/frontend/.env
-
 # testing
 /coverage
 
